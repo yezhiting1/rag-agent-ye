@@ -1,3 +1,4 @@
+<img width="1536" height="762" alt="2" src="https://github.com/user-attachments/assets/ec3ea483-aa3d-4706-adf6-f76755657e4f" />
 # RAG Agent
 
 跑在 EdgeOne Makers 上的检索增强对话 Agent：基于本地 PDF 知识库回答问题，并附带页级引用，全程 SSE 流式返回。后端使用 OpenAI Agents SDK（Python）。
